@@ -30,7 +30,7 @@ The "Resume Builder Based on GitHub Stats" is a powerful tool for developers loo
 1. Varsha S Panicker(https://github.com/TH-Activities/saturday-hack-night-template)
 2. Nandana A(https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
-[link to video](Link Here)
+https://github.com/Varsha-200/saturday-hack-night-template/blob/4aafba676b2a5b035526e6d14b198343fb026329/GitHub%20Resume%20Builder%20Vedio
 ## How it Works ?
 ### 1. How It Works
 The "Resume Builder Based on GitHub Stats" application is designed to generate a resume using a user's GitHub activity in a few simple steps:
@@ -58,6 +58,7 @@ The responsive design ensures that the resume looks great on all devices, from d
 This process is designed to be efficient, allowing users to generate a professional-looking resume with minimal effort.
 
 ### 2. Embed video of project demo
+https://github.com/Varsha-200/saturday-hack-night-template/blob/4aafba676b2a5b035526e6d14b198343fb026329/GitHub%20Resume%20Builder%20Vedio
 ## Libraries used
 Flask - Version: 2.1.1
 Requests - Version: 2.26.0
