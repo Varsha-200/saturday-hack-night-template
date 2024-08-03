@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="text-center">
+    <h1 class="display-4">GitHub Resume Builder</h1>
+    <p class="lead">Enter your GitHub username to generate your resume.</p>
+    <form method="POST" action="{{ url_for('generate_resume') }}" class="d-flex justify-content-center">
+        <input type="text" name="username" class="form-control w-25 me-2" placeholder="GitHub Username" required>
+        <button type="submit" class="btn btn-primary">Generate Resume</button>
+    </form>
+    {% if error %}
+    <div class="alert alert-danger mt-3" role="alert">
+        {{ error }}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
